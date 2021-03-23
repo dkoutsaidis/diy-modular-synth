@@ -32,3 +32,4 @@ Custom components can be found inside the [Panels Design Library](/Panels%20Desi
 - [DIY starter guide by Doepfer](http://www.doepfer.de/DIY/a100_diy.htm)
 - [**MODULAR**Grid](https://www.modulargrid.net/e/users/view/192107)
 - [MultisimLive](https://www.multisim.com/contributors/332247-dkoutsaidis/my-circuits/)
+- [Module Tester](https://mutable-instruments.net/archive/module_tester/)

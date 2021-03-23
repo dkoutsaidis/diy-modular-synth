@@ -1,6 +1,13 @@
 # SND/RTN - AISynthesis
 A simple send/return module for IO with external guitar pedals ([link](https://aisynthesis.com/how-to-build-ai006-eurorack-send-return-module/)).
 
+### Pros
+- very simple design
+- works excellent
+
+### Cons
+_
+
 Next, there are some voltage-conversion-related useful info:
 
 ### Line Level

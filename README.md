@@ -10,7 +10,7 @@ This repo hosts schematics and panel designs for varius DIY [eurorack](https://e
 ### Modules
 - [VCO/LFO - Digisound Project 80 - CEM3340](/VCO/Digisound%20CEM3340)
 - [VCO/LFO - Nuts & Volts - CEM3340](/VCO/N%26V%20CEM3340)
-- [VCO - All About Circuits](/VCO/AAC%20Exponential VCO)
+- [VCO - All About Circuits](/VCO/AAC%20-%20Exponential%20VCO)
 - [VCA - Skull & Circuits](/VCA/S%26C%20VCA)
 - [AD/AR Envelope - Look Mum No Computer](/Envelope/LMNC%20-%20AD:AR)
 - [SND/RTN - AISynthesis](/Utillity/AISynthesis%20SND:RTN)

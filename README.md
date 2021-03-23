@@ -30,3 +30,4 @@ Custom components can be found inside the [Panels Design Library](/Panels%20Desi
 ### Useful Links
 - [DIY starter guide by Doepfer](http://www.doepfer.de/DIY/a100_diy.htm)
 - [Further reading books by Doepfer](http://www.doepfer.de/a100_man/a100b_e.htm)
+- [**MODULAR**Grid](https://www.modulargrid.net/e/users/view/192107)

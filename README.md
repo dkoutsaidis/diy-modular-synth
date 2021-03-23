@@ -29,6 +29,7 @@ Custom components can be found inside the [Panels Design Library](/Panels%20Desi
 
 ### Useful Links
 - [Further reading books by Doepfer](http://www.doepfer.de/a100_man/a100b_e.htm)
+- [More books for further reading](https://noisesculpture.com/)
 - [DIY starter guide by Doepfer](http://www.doepfer.de/DIY/a100_diy.htm)
 - [**MODULAR**Grid](https://www.modulargrid.net/e/users/view/192107)
 - [MultisimLive](https://www.multisim.com/contributors/332247-dkoutsaidis/my-circuits/)

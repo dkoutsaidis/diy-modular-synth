@@ -32,7 +32,7 @@ Custom components can be found inside the [Panels Design Library](/Panels%20Desi
 - ICs bought from [here](https://electricdruid.net/)
 
 ### Useful Links
-- [Further reading books by Doepfer](http://www.doepfer.de/a100_man/a100b_e.htm)
+- [Books by Doepfer](http://www.doepfer.de/a100_man/a100b_e.htm)
 - [More books for further reading](https://noisesculpture.com/)
 - [DIY starter guide by Doepfer](http://www.doepfer.de/DIY/a100_diy.htm)
 - [**MODULAR**Grid](https://www.modulargrid.net/e/users/view/192107)

@@ -7,7 +7,7 @@ This repo hosts schematics and panel designs for varius DIY [eurorack](https://e
 - The main branch hosts already built and tested modules.
 - The develop branch hosts modules that are currently being developed and/or tested.
 
-### Modules
+### Analogue Modules
 - [VCO/LFO - Digisound Project 80 - CEM3340](/VCO/Digisound%20CEM3340)
 - [VCO/LFO - Nuts & Volts - CEM3340](/VCO/N%26V%20CEM3340)
 - [VCO - All About Circuits](/VCO/AAC%20-%20Exponential%20VCO)
@@ -16,6 +16,10 @@ This repo hosts schematics and panel designs for varius DIY [eurorack](https://e
 - [SND/RTN - AISynthesis](/Utillity/AISynthesis%20SND:RTN)
 - [Power Supply](/Power%20Supply)
 - [Case](/Case)
+
+### Digital Modules
+- [CV Sequencer](https://github.com/dkoutsaidis/arduino-eurorack/tree/develop/cv_sequencer)
+- [Gate Sequencer](https://github.com/dkoutsaidis/arduino-eurorack/tree/develop/gate_sequencer)
 
 ### Software
 - Schematics and PCBs are created with the open-source [KiCad](https://kicad.org/) software (default libraries).

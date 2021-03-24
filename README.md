@@ -4,8 +4,8 @@ This repo hosts schematics and panel designs for varius DIY [eurorack](https://e
 ![synth](https://user-images.githubusercontent.com/24361657/112227922-10ee2880-8c39-11eb-97c4-7faf721770ca.png)
 
 ### Repo Structure
-- The main branch hosts already built and tested modules.
-- The develop branch hosts modules that are currently being developed and/or tested.
+- The [main](https://github.com/dkoutsaidis/diy-modular-synth/tree/main) branch hosts already built and tested modules.
+- The [develop](https://github.com/dkoutsaidis/diy-modular-synth/tree/develop) branch hosts modules that are currently being developed and/or tested.
 
 ### Analogue Modules
 - [VCO/LFO - Digisound Project 80 - CEM3340](/VCO/Digisound%20CEM3340)
